@@ -91,7 +91,7 @@ export function googleFontHref(theme: Theme) {
   const bodyFont = formatFontSpecification("body", body)
   const codeFont = formatFontSpecification("code", code)
 
-  return `https://fonts.googleapis.com/css2?family=${headerFont}&family=${bodyFont}&family=${codeFont}&display=swap`
+  return `https://fonts.googleapis.com/css2?family=${headerFont}&family=${bodyFont}&family=${codeFont}&family=Noto+Serif+SC:wght@400;700&family=Noto+Sans+SC:ital,wght@0,400;0,600;1,400;1,600&display=swap`
 }
 
 export function googleFontSubsetHref(theme: Theme, text: string) {

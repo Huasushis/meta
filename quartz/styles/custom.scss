@@ -1,3 +1,10 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&family=Noto+Sans+SC:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+
+:root {
+  --headerFont: "Playfair Display", "Noto Serif SC", "Times New Roman", serif, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  --bodyFont: "Lato", "Noto Sans SC", "Helvetica Neue", Arial, sans-serif, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  --titleFont: var(--bodyFont) !important;
+}
