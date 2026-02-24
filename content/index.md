@@ -2,11 +2,13 @@
 publish: true
 title: Welcome to my Meta Galaxy
 created: 2026-02-23T17:27:28.716+08:00
-modified: 2026-02-24T22:35:41.999+08:00
+modified: 2026-02-24T23:23:06.605+08:00
 cssclasses: ""
 ---
 
 记录 Idea 和 Schedule
+
+[[Task Kanban\|任务看板]]
 
 ## 🆕 最近创建
 
@@ -19,6 +21,6 @@ cssclasses: ""
 
 |笔记|修改时间|文件夹|
 |---|---|---|
-|[[index\|Welcome to my Meta Galaxy]]|2026-02-24 22:35||
+|[[index\|Welcome to my Meta Galaxy]]|2026-02-24 23:23||
 
 
