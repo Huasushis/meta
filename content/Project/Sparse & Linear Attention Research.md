@@ -3,7 +3,7 @@ publish: true
 title: Sparse & Linear Attention Research
 description: AI structure
 created: 2026-07-22 16:09:36
-modified: 2026-07-22T16:36:31.013+08:00
+modified: 2026-07-22T17:03:18.018+08:00
 tags:
   - project
 cssclasses: ""
@@ -16,7 +16,6 @@ cssclasses: ""
 ## 论文
 
 [[linear_and_sparse_attention_references.bib]]
-
 
 
 
